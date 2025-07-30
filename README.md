@@ -2,6 +2,8 @@
 
 A fun and interactive implementation of the classic **Pacman** arcade game using **React**. Built for modern browsers with clean UI, keyboard support, and a modular codebase that’s easy to expand or customize.
 
+![Pacman Screenshot] <img width="795" height="814" alt="image" src="https://github.com/user-attachments/assets/f9710bc3-e594-4188-af21-8d363f443fe0" />
+
 
 ## 🧩 Features
 
